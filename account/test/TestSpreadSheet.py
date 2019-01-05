@@ -26,13 +26,16 @@ class TestSpreadSheet(unittest.TestCase):
 		obj = SpreadSheet(file_path)
 		
 		data = {'newsheet': [
-			['date', 'data'],
-			[1, 'A'],
-			[2, 'B'],
-			[3, 'C'],
+			['A', 'B'],
+			[11, 'AA'],
+			[12, 'BB'],
+			[13, 'CC'],
 		]}
 		
 		obj.write(data)
+		
+		obj.write_ods(data)
+		
 		
 		
 		

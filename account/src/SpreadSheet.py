@@ -1,5 +1,7 @@
 import pyexcel
 
+from pyexcel_ods import save_data
+
 class SpreadSheet:
 	
 	def __init__(self, book_name):
@@ -20,3 +22,8 @@ class SpreadSheet:
 		book = pyexcel.Book(dic)
 		book.save_as(self.__book_name)
 		
+	def write_ods(self, dict_data):
+		dic = self.__book.to_dict()
+		dic.update(dict_data)
+		
+		save_data(self.__book_name + '.ods', dic)
