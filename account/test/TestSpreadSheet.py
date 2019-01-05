@@ -19,7 +19,6 @@ class TestSpreadSheet(unittest.TestCase):
 			[3, 'C'],
 		]
 		self.assertEqual(actual, expect)
-		
 	
 	def test_export(self):
 		file_path = os.path.join(os.path.dirname(__file__), 'data.xlsx')
@@ -33,9 +32,6 @@ class TestSpreadSheet(unittest.TestCase):
 		]}
 		
 		obj.write(data)
-		
-		obj.write_ods(data)
-		
 		
 		
 		
