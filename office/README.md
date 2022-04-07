@@ -3,10 +3,18 @@
 ## 2204007
 
 - pyoo OK
-- UMOのCOM/ActiveX/.NETはあるのか?
+- UMOのCOM/ActiveX/.NET/OLEはあるのか?
+    - https://help.libreoffice.org/6.2/en-US/text/shared/guide/activex.html
+    - https://roansbitsnbytes.blogspot.com/2013/12/the-quest-for-accessing-libreoffice.html
+    - https://wiki.openoffice.org/wiki/Uno/CLI
+    - https://api.libreoffice.org/docs/install.html
+    - https://api.libreoffice.org/examples/examples.html
+    
 - pythonをphp COMで呼べるか?
 
-## 資料
+## 2204xx
+
+### 資料
 
 ドキュメント
 [official DOCS](https://documentation.libreoffice.org/ja/documentation-in-japanese/)
