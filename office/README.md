@@ -1,11 +1,10 @@
 #
 
-## 220403
+## 2204007
 
-- 色々調べたが、結構大変
-
-
-
+- pyoo OK
+- UMOのCOM/ActiveX/.NETはあるのか?
+- pythonをphp COMで呼べるか?
 
 ## 資料
 
