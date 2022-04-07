@@ -26,3 +26,7 @@ LibreOffice user profile
 
 LibreOffice を Python で操作する
 [サンプル1](https://qiita.com/shota243/items/286ae4083556ae98b611)
+
+pipパッケージ
+[pip pyoo](https://pypi.org/project/pyoo/)
+[pip unotools](https://pypi.org/project/unotools/)
