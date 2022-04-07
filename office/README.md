@@ -9,6 +9,10 @@
     - https://wiki.openoffice.org/wiki/Uno/CLI
     - https://api.libreoffice.org/docs/install.html
     - https://api.libreoffice.org/examples/examples.html
+    - https://wiki.openoffice.org/wiki/Documentation/DevGuide/ProUNO/Bridge/Automation_Bridge
+    - https://docs.libreoffice.org/extensions.html
+    - https://docs.libreoffice.org/index.html
+
     
 - pythonをphp COMで呼べるか?
 
