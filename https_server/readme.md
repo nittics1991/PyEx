@@ -1,10 +1,11 @@
 # https local server
 
-
 ## 230423
 
-- 自己証明書エラー
+curl --insecurity https://localhost:8000/sample.htm
+firefox https://localhost:8000/sample.htm
 
+firefoxは「危険を承知で・・・」で進む
 
 ## 資料
 
